@@ -1,5 +1,7 @@
 # HireAzy - Interview Simulation Platform
 
+Deploy Link - https://hireazy-solution-sajal-gupta.vercel.app/
+
 ## Assignment Questions & Answers
 
 ### 1. Tell me about a time when you made a mistake while building something. What did you do next?
